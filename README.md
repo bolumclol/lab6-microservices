@@ -86,4 +86,4 @@ by a PR so other fellow can try it.
 | 785370 | Íñigo Aréjula | [report](https://github.com/arejula27/lab6-microservices/blob/test/docs/report.md) |  ||
 | 646946 | Hector Herrmann | [Primary Goal](https://github.com/HNHerrmann/lab6-microservices/blob/test/report.md) |             |       |
 | 758986 | Isaac Velasco | [Primary Goal](https://github.com/pkmniako/lab6-microservices/blob/work/documentation/report.md) |  | |
-
+| 735550 | [Jorge Laguna](https://github.com/topopelon) | [report](https://github.com/topopelon/lab6-microservices/blob/test/report/report.md) |             |       |
